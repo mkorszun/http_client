@@ -1,6 +1,5 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+.classpath
+.project
+dependency-reduced-pom.xml
+target/maven-archiver
+target/surefire
